@@ -1,4 +1,4 @@
-# VaniilaBrain
+# News-Classification-Recommend
 
 ## 문제 정의
 
