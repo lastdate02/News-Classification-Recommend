@@ -6,11 +6,11 @@
 또한 뉴스 추천 모델을 만들어 사용자들의 취향에 맞추어 뉴스를 서비스 하고 장기적으로 사용자를 늘릴 수 있게 하려한다.
 
 ## Variable
-X_train : 토큰화 뉴스 데이터
-best_model : 딥러닝 모델
-keyword_mecab : soykeyword로 추출한 키워드 목록
-news_recommend : 추천해줄 데이터가 담긴 뉴스 데이터
-(news_df_02100201) : (테스트용 뉴스 데이터)
+* X_train : 토큰화 뉴스 데이터
+* best_model : 딥러닝 모델
+* keyword_mecab : soykeyword로 추출한 키워드 목록
+* news_recommend : 추천해줄 데이터가 담긴 뉴스 데이터
+* (news_df_02100201) : (테스트용 뉴스 데이터)
 
 ## Accuracy (classification)
 80%
