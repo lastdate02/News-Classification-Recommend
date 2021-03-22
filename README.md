@@ -24,10 +24,10 @@ VanillaNews : Normal
 VanillaNewsKeyword : + news_keyword(키워드 추출 따로)
 
 ## Time (기사 12716자 기준)
-__init__ : 4분 11초
-news_input : 42.5ms
-news_category : 433ms
-news_recommend : 97.5ms
+* init : 4분 11초
+* news_input : 42.5ms
+* news_category : 433ms
+* news_recommend : 97.5ms
 
 ## Requires
 * Tensorflow 2.0
